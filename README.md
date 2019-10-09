@@ -1,7 +1,7 @@
 # ffmpeg-installer
-ffmpeg installer shell script 
-  Copyright (C) 2015 http://www.abdulibrahim.com/ All rights reserved.
- This shell script will install the FFmpeg with the follwing libraries:
+ffmpeg installer shell script <br>
+  Copyright (C) 2015 http://www.abdulibrahim.com/ All rights reserved.<br>
+ This shell script will install the FFmpeg with the follwing libraries:<br>
  Yasm 
  libmp3lame 
  libogg 
